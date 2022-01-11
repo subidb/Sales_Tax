@@ -3,7 +3,9 @@
 
 To run the program:
 *git https://github.com/subidb/Sales_Tax.git
+
 *cd Sales_Tax
+
 *python sales_tax.py
 
 Problem:
