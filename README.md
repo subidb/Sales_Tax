@@ -55,4 +55,4 @@ Assumptions:
      
  An Item class was created to facilitate the creation of item objects with their values.
  A parser function was used with regex to parse the input and convert them into objects.
- Class functions were used to calculate sales tax, using the attributes of the instances.
+ Class functions/methods were used to calculate sales tax, using the attributes of the instances.
