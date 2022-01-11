@@ -2,11 +2,12 @@
 
 
 To run the program:
-*git https://github.com/subidb/Sales_Tax.git
 
-*cd Sales_Tax
+git https://github.com/subidb/Sales_Tax.git
 
-*python sales_tax.py
+cd Sales_Tax
+
+python sales_tax.py
 
 Problem:
 
