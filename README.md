@@ -43,9 +43,13 @@ Assumptions:
 
 2.   According to the question:
   Excempt goods. Imported goods. Tax
+  
         False       False         10%
+        
         False       True          15%
+        
         True        False         0%
+        
         True        True          5%
 
  3. I initially assumed that if a product was imported(and not excempt)
