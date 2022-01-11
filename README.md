@@ -48,10 +48,9 @@ Assumptions:
         True        False         0%
         True        True          5%
 
-    I initially assumed that if a product was imported(and not excempt)
-     5 % import tax would be applied to get a result and then 10% would be applied to that result
-     (1.05x * 1.10) where x is the initial price
-     However looking at the output directly doing(1.15x) looks like the required approach. hence that was applied
+ 3. I initially assumed that if a product was imported(and not excempt)
+  5 % import tax would be applied to get a value and then 10% would be applied to that value (1.05x * 1.10) where x is the initial price
+  However looking at the output directly doing(1.15x) looks like the required approach. hence that was applied
      
      
  An Item class was created to facilitate the creation of item objects with their values.
