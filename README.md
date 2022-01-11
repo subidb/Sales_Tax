@@ -42,6 +42,7 @@ Assumptions:
     However, it could easily adjusted to be user input or imported from a notepad file
 
 2.   According to the question:
+
   Excempt goods. Imported goods. Tax
   
         False       False         10%
