@@ -3,7 +3,7 @@
 
 To run the program:
 
-git pull https://github.com/subidb/Sales_Tax.git
+git clone https://github.com/subidb/Sales_Tax.git
 
 cd Sales_Tax
 
