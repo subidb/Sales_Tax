@@ -41,9 +41,9 @@ Assumptions:
    In this program, the input is already stored in the program, as the input values are set in the problem question.
     However, it could easily adjusted to be user input or imported from a notepad file
 
-2.   According to the question:
+2.   According to the problem:
 
-  Excempt goods. Imported goods. Tax
+  Excempt goods | Imported goods | Tax
   
         False       False         10%
         
